@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTFlutter_Tests' do
+  pod 'FTFlutter', :path => '../'
+  
+  
+end
